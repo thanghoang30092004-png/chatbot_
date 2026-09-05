@@ -1,5 +1,5 @@
 # Recruitment AI Chatbot
-# hello
+
 Chatbot hỗ trợ tuyển dụng bằng tiếng Việt. Ứng dụng kết hợp:
 
 - **RAG** để tìm kiếm thông tin trong JD, CV và chính sách công ty.
