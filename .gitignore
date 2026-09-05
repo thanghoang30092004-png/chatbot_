@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local tooling and OS files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+/data
+/vectorstores
+
